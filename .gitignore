@@ -1,9 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 sampapi/
 rakhook/
 pluginsdk/
 out/
 =======
+=======
+>>>>>>> 3aef431057163e70d6446e11496043f2d8a6a5a4
 # Prerequisites
 *.d
 
@@ -45,4 +48,7 @@ out/
 
 # debug information files
 *.dwo
+<<<<<<< HEAD
+>>>>>>> 3aef431057163e70d6446e11496043f2d8a6a5a4
+=======
 >>>>>>> 3aef431057163e70d6446e11496043f2d8a6a5a4
